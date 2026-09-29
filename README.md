@@ -225,7 +225,7 @@ The final output provides:
 
 Two interactive approaches were developed.
 
-### Jupyter / Google Colab Interface
+### Google Colab Interface
 
 An interactive interface was created using:
 
